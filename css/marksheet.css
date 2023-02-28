@@ -81,11 +81,11 @@ header{
     align-items: center;
     font-family: 'Sen-Regular';
     margin-top: 150px;
-    margin-left: 5%;
+    margin-left: 24px;
 }
 /* ***************************************************** */
 .section-principale{
-    margin-top: 70px;
+    margin-top: 60px;
 }
 section{
     display: grid;
